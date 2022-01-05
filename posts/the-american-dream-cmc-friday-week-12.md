@@ -1,11 +1,8 @@
 ---
 title: "The American Dream (CMC, Friday, Week 12)"
-date: "2012-04-24"
-categories: 
-  - "coming-of-managerial-capitalism"
-tags: 
-  - "cmc"
+date: '2012-04-24'
+tags: ['coming-of-managerial-capitalism', 'year-two']
 layout: layouts/post.njk
 ---
 
-[![](images/IMG_0870-1024x764.jpg "American Dream")](http://colinbarry.com/wp-content/uploads/2012/04/IMG_0870.jpg)
+[![](../../img/IMG_0870-1024x764.jpg "American Dream")](../../img/IMG_0870.jpg)

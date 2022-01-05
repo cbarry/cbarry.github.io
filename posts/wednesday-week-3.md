@@ -1,10 +1,7 @@
 ---
 title: "Highland Capital Partners (EF, Wednesday, Week 3)"
-date: "2011-09-15"
-categories: 
-  - "entrepreneurial-finance"
-tags: 
-  - "ef"
+date: '2011-09-15'
+tags: ['entrepreneurial-finance', 'year-two']
 layout: layouts/post.njk
 ---
 

@@ -1,10 +1,7 @@
 ---
 title: "Saudi Aramco (ENERGY, Tuesday, Week 2)"
-date: "2011-09-07"
-categories: 
-  - "the-energy-business-and-geopolitics"
-tags: 
-  - "energy"
+date: '2011-09-07'
+tags: ['the-energy-business-and-geopolitics', 'year-two']
 layout: layouts/post.njk
 ---
 

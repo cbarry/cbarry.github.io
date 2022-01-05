@@ -1,11 +1,7 @@
 ---
 title: "\"Building the Team\" Module Wrap (FD, Tuesday, Week 6)"
-date: "2011-10-05"
-categories: 
-  - "founders-dilemmas"
-tags: 
-  - "fd"
-  - "fdhbs"
+date: '2011-10-05'
+tags: ['founders-dilemmas', 'year-two']
 layout: layouts/post.njk
 ---
 

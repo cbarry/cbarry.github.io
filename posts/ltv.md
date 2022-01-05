@@ -1,10 +1,7 @@
 ---
 title: "A Cacophony of Voices: The Product Manager in B2B (LTV Blog Post #2)"
-date: "2012-03-02"
-categories: 
-  - "launching-technology-ventures"
-tags: 
-  - "ltv"
+date: '2012-03-02'
+tags: ['launching-technology-ventures', 'year-two']
 layout: layouts/post.njk
 ---
 
@@ -12,7 +9,7 @@ layout: layouts/post.njk
 > 
 > \- "The Product Manager," Jeffrey Bussgang, Thomas Eisenmann, Robert Go
 
-[![](images/bidding.jpg "bidding")](http://colinbarry.com/wp-content/uploads/2012/03/bidding.jpg) Our case mix in LTV was heavily weighted towards consumer Internet startups, with the expectation that the lessons we learned would be broadly generalizable across other business models and industries. I think this has been largely true, but I think product management in B2B firms offers several unique challenges and requires some different skills than are required in B2C. Our discussion of OPOWER touched on some of these challenges, which I believe mostly arise because:
+[![](images/bidding.jpg "bidding")](../../img/bidding.jpg) Our case mix in LTV was heavily weighted towards consumer Internet startups, with the expectation that the lessons we learned would be broadly generalizable across other business models and industries. I think this has been largely true, but I think product management in B2B firms offers several unique challenges and requires some different skills than are required in B2C. Our discussion of OPOWER touched on some of these challenges, which I believe mostly arise because:
 
 **The User Isn't the Customer.** In the majority of our case discussions -- and in most B2C plays -- the person buying the product and the person using the product are either the same or closely aligned. This was true even for B2B ventures like RentJuice -- realtors who would actually use the product on a daily basis were the key decision-makers in RentJuice's selling process.
 

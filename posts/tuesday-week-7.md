@@ -1,6 +1,7 @@
 ---
 title: "Wednesday, Week 7"
-date: "2011-10-12"
+date: '2011-10-12'
+tags: ['year-two']
 layout: layouts/post.njk
 ---
 

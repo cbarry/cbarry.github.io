@@ -1,10 +1,7 @@
 ---
 title: "Is HBS Getting Disrupted (BSSE, Tuesday, Week 6)"
-date: "2011-10-05"
-categories: 
-  - "building-and-sustaining-successful-enterprises"
-tags: 
-  - "bsse"
+date: '2011-10-05'
+tags: ['building-and-sustaining-successful-enterprises', 'year-two']
 layout: layouts/post.njk
 ---
 

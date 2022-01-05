@@ -1,10 +1,7 @@
 ---
 title: "VC Problem Set (EF, Friday, Week 3)"
-date: "2011-09-17"
-categories: 
-  - "entrepreneurial-finance"
-tags: 
-  - "ef"
+date: '2011-09-17'
+tags: ['entrepreneurial-finance', 'year-two']
 layout: layouts/post.njk
 ---
 

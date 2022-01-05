@@ -1,14 +1,13 @@
 ---
 title: "Dollar General (BSSE, Monday, Week 5)"
-date: "2011-09-27"
-categories: 
-  - "building-and-sustaining-successful-enterprises"
-tags: 
-  - "bsse"
+date: '2011-09-27'
+tags: ['building-and-sustaining-successful-enterprises', 'year-two']
 layout: layouts/post.njk
 ---
 
-Firms often change their job-to-be-done without entirely meaning to. Dollar General: treasure hunt => emergency supplies at low cost => cheap, predictable staples Causal mechanism is usually customer feedback; your customers ask for additional products/services that may have higher margins.
+Firms often change their job-to-be-done without entirely meaning to.\
+Dollar General: treasure hunt => emergency supplies at low cost => cheap, predictable staples\
+Causal mechanism is usually customer feedback; your customers ask for additional products/services that may have higher margins.
 
 Hence, listening to your customers can sometimes lead you along a path to lack of differentiation/competitive disadvantage.
 

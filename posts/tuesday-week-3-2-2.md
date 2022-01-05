@@ -1,16 +1,15 @@
 ---
 title: "Cake Financial (LTV, Tuesday, Week 3)"
-date: "2012-02-08"
-categories: 
-  - "launching-technology-ventures"
-tags: 
-  - "ltv"
+date: '2012-02-08'
+tags: ['launching-technology-ventures', 'year-two']
 layout: layouts/post.njk
 ---
 
-MVP/hypothesis does NOT have to directly contribute to product development. Example: you could test whether 40-55 y/o males will share their investment decisions by running a three-month public portfolio management contest
+MVP/hypothesis does NOT have to directly contribute to product development.\
+Example: you could test whether 40-55 y/o males will share their investment decisions by running a three-month public portfolio management contest
 
-It's really easy to say "test hypotheses rigorously" and "assume nothing." It's a lot harder to do in practice, and there are sometimes false positives and false negatives.
+It's really easy to say "test hypotheses rigorously" and "assume nothing."\
+It's a lot harder to do in practice, and there are sometimes false positives and false negatives.
 
 PR and snazzy launches: sometimes appropriate, sometimes not.
 
@@ -24,4 +23,4 @@ Blog/do other things to build personal credibility.
 
 The economics of being a founder at a startup (as opposed to an early hire) are phenomenal. For 6-10 months of additional risk, founder gets tremendous upside.
 
-"I am never going to raise friends and family money again." - Steve Carpenter
+"I am never going to raise friends and family money again." -- Steve Carpenter

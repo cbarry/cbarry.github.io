@@ -1,11 +1,7 @@
 ---
 title: "UpDown Simulation Debrief (FD, Monday, Week 5)"
-date: "2011-09-27"
-categories: 
-  - "founders-dilemmas"
-tags: 
-  - "fd"
-  - "fdhbs"
+date: '2011-09-27'
+tags: ['founders-dilemmas', 'year-two']
 layout: layouts/post.njk
 ---
 

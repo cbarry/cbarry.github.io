@@ -1,10 +1,7 @@
 ---
 title: "Disney/Jobs to be Done (BSSE, Tuesday, Week 4)"
-date: "2011-09-21"
-categories: 
-  - "building-and-sustaining-successful-enterprises"
-tags: 
-  - "bsse"
+date: '2011-09-21'
+tags: ['building-and-sustaining-successful-enterprises', 'year-two']
 layout: layouts/post.njk
 ---
 
